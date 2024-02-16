@@ -1,2 +1,2 @@
 # MyFramework
-Its my selenium framework
+Its my selenium framework for my team
